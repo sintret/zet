@@ -1,6 +1,6 @@
 {
   "name": "zet-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "zet is a library that part of zet generator.",
   "engines": {
     "node": ">=18"
@@ -34,6 +34,7 @@
     "ejs": "^3.1.9",
     "exceljs": "^4.3.0",
     "fs-extra": "^11.1.1",
+    "html-minifier-terser": "^7.2.0",
     "js-sha256": "^0.9.0",
     "moment": "^2.29.4",
     "node-cache": "^5.1.2",
@@ -44,6 +45,7 @@
     "qs": "^6.11.2",
     "randomstring": "^1.3.0",
     "socket.io": "^4.7.2",
+    "uglify-js": "^3.17.4",
     "uuid": "^9.0.0",
     "xlsx": "^0.18.5"
   }
