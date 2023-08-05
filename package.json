@@ -1,6 +1,6 @@
 {
   "name": "zet-lib",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "zet is a library that part of zet generator.",
   "engines": {
     "node": ">=18"
